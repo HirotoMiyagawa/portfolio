@@ -78,6 +78,14 @@
 - READMEやポートフォリオ資料を更新
 - GitHub Pagesで公開
 
+## Use of Codex
+
+本ポートフォリオに掲載しているアプリの企画、要件整理、実装、テスト、README作成の一部では、OpenAI Codexを開発支援ツールとして活用しました。
+
+Codexには、機能案の整理、HTML/CSS/JavaScriptの実装補助、動作確認、GitHub Pages向けの構成整理、ポートフォリオ文章の作成補助を依頼しました。
+
+最終的な仕様判断、機能追加の方向性、公開作業、内容確認は自分で行っています。
+
 ## Contact
 
 GitHub: https://github.com/HirotoMiyagawa
